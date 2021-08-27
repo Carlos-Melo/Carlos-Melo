@@ -1,4 +1,4 @@
-## FRONT-END WEB DEVELOPER
+## STUDENT FRONT-END WEB DEVELOPER
 
 💻 - TypeScript/Angular
 
