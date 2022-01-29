@@ -1,6 +1,6 @@
-## STUDENT FRONT-END WEB DEVELOPER
+## FULL STACK DEVELOPER
 
-💻 - TypeScript/Angular
+💻 - TypeScript/Angular/Java
 
  📍 - Recife - PE - Brasil
 
